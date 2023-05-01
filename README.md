@@ -6,3 +6,6 @@ The project involved the development of a website for detecting diseases in pota
 Website HomePage
 <br>
 <img width="931" alt="image" src="https://user-images.githubusercontent.com/72157667/234913600-f5a91f4d-0949-4980-b43b-a5239a0f53a2.png">
+<br>
+Output
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/72157667/235468653-463bdf04-6f8b-4151-8aaa-bf26207b7d2f.png">
